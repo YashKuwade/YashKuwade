@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YashKuwade
+- 👋 Hi, I’m YashKuwade
 - 👀 I’m interested in Statistics and Machine learning, specifically using them to develop exciting products. 
 - 🌱 I’m currently learning Deep Learning frameworks and algorithms.
 - 💞️ I’m looking to collaborate on web apps that use ML.
