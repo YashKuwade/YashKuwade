@@ -2,7 +2,7 @@
 - 👀 I’m interested in Statistics and Machine learning, specifically using them to develop exciting products. 
 - 🌱 I’m currently learning Deep Learning frameworks and algorithms.
 - 💞️ I’m looking to collaborate on web apps that use ML.
-- 📫 How to reach me: drop me a mail kuwadeyash@gmail.com
+- 📫 How to reach me: drop me a mail yash007kuwade@gmail.com
 
 <!---
 YashKuwade/YashKuwade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
